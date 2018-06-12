@@ -1,0 +1,10 @@
+default: &default
+  <<: *default
+  BUCKET: "staging.tgupta.me"
+
+dev:
+  <<: *default
+
+prod:
+  <<: *default
+  BUCKET: "tgupta.me"
