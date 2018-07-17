@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://546exjygc8.execute-api.us-east-1.amazonaws.com/prod/api",
+                url: "https://prod-api.tgupta.me/prod/api",
                 type: "POST",
                 data: JSON.stringify({
                     name: name,
