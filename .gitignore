@@ -21,7 +21,6 @@ var/
 
 # Node Stuff
 node_modules/
-package.json
 
 # Hugo stuff
 resources/*
