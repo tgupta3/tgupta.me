@@ -1,5 +1,5 @@
-baseURL: "https://www.tgupta.me"
-enableRobotsTXT: true
+baseURL: "https://dev.tgupta.me"
+enableRobotsTXT: false
 
 languageCode: en-us
 title: "Tushar's Blog"
