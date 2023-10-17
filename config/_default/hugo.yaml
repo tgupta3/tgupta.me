@@ -1,6 +1,7 @@
 languageCode: en-us
 title: "Tushar's Blog"
 enableRobotsTXT: false
+enableGitInfo: true
 
 # Use Hugo modules to add theme
 module:
@@ -52,9 +53,17 @@ params:
 
   features:
     analytics:
-      enabled: false
+      enable: false
 
   footer:
-    enabled: false
+    enable: true
+    navigation:
+      enable: false
     newsletter:
-      enabled: false
+      enable: false
+    contactMe:
+      enable: false
+    disclaimer:
+      enable: true
+    credentials:
+      enable: true
