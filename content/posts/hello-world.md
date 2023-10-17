@@ -1,7 +1,7 @@
 +++
 title = "Hello World"
 date = "2023-10-10T02:44:36Z"
-author = ""
+author = "Tushar Gupta"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
