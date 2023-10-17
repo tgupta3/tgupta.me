@@ -1,4 +1,2 @@
-github.com/hugo-toha/toha/v4 v4.0.0-20231006193257-e8f8f3b22b76 h1:tdFPiwCPgQvOR/4CINRu8MRFfV8dg4wJtdRL8ky3Iz8=
-github.com/hugo-toha/toha/v4 v4.0.0-20231006193257-e8f8f3b22b76/go.mod h1:p/K34lqlqmhzfPd4cx66od7sjlROBqhMxG30mJz+aKQ=
-github.com/hugo-toha/toha/v4 v4.0.0-20231016180619-e35f91737001 h1:EsvDkor+kSAS9/vw1sY9iKz258jH5/Ono+mEVbh72yY=
-github.com/hugo-toha/toha/v4 v4.0.0-20231016180619-e35f91737001/go.mod h1:p/K34lqlqmhzfPd4cx66od7sjlROBqhMxG30mJz+aKQ=
+github.com/tgupta3/toha/v4 v4.0.0-20231017182703-77ce2786cb92 h1:Hlx9lW+BfvgjHIGCdPee9i3ggDyAWflcUDCoW8wVElg=
+github.com/tgupta3/toha/v4 v4.0.0-20231017182703-77ce2786cb92/go.mod h1:tzCd2kIGzub+miZJqKZMcyaji4tiPJAgU33t4P6+Ubc=
