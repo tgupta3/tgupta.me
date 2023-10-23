@@ -15,7 +15,7 @@ experiences:
     url: "https://www.google.com"
     location: San Francisco Bay Area
     # company overview
-    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Google is a global technology leader in Internet-related services, cloud computing, software, hardware, and online advertising platforms.
   positions:
   - designation: Network Engineer
     start: Sept 2019
@@ -23,20 +23,24 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Run & maintain Anthos OnPrem Development and Qualification platform encompassing 20+ technologies such as ESXi, NSX, vSAN critical to [Google Cloud Anthos](https://cloud.google.com/anthos) product lifecycle.
+    - Design, implementation and maintenance of automation and configuration management for all levels of networking infrastructure.
+    - Provide in-depth enterprise infrastructure/cloud modernization expertise to support Google customers for Anthos hybrid or multi-cloud deployment.
+    - Maintenance and Support for [Google Compute Engine](https://cloud.google.com/compute?hl=en) and [Cloud Networking](https://cloud.google.com/products/networking?hl=en) Staging environment.
 
 - company:
-    name: Amazon Web Services
+    name: Amazon Web Services (AWS)
     url: "https://aws.amazon.com"
     location: Washington D.C. Metro Area
-    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Amazon Web Services (AWS) is a premier cloud services platform offering compute power, database storage, content delivery, and other innovative solutions to businesses globally.
   positions:
   - designation: Cloud Support Engineer
     start: July 2017
     end: Sept 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Troubleshoot AWS customer issues with focus on services such as VPN, Direct Connect, Virtual Private Cloud, Elastic Load Balancing, and Route53.
+    - Assist customers in implementing highly available and redundant network topologies using IPSec VPN, BGP using a combination of underlying MPLS, VRFs, L2VPN and L3VPN.
+    - Troubleshoot on layer 1/2/3/4 (ARP, TCP/IP, DNS, routing protocols such as BGP, OSPF, IS-IS) to eliminate any performance bottlenecks in the network.
+    - Develop tools to detect and identify root cause of network related issues.
+    - Collaborate with service teams to diagnose internal infrastructure issues using AWS troubleshooting tools, perform service specific trend analysis & provide customer feedback to the product teams.
+    - Subject Matter Expert for AWS CloudWatch.
