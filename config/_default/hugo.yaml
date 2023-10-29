@@ -44,16 +44,26 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/tgupta3/tgupta.me
+  # Default branch of your Git repo
+  gitBranch: main
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
-
+  
   features:
+    
+    darkMode:
+      enable: true
+  
     analytics:
       enable: false
+  
+     # Enable and configure portfolio
+    portfolio:
+      enable: true
 
   footer:
     enable: true

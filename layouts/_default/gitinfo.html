@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    <h1>Git Information for this website <span><a href="{{ $.Site.Params.gitRepo }}" target="_blank" rel="noopener noreferrer" >Repository URL</a></span></h1></h1>
+    <ul>
+        <li>Last Commit Hash: {{ .GitInfo.Hash }}</li>
+        <li>Abbreviated Hash: {{ .GitInfo.AbbreviatedHash }}</li>
+        <li>Author Name: {{ .GitInfo.AuthorName }}</li>
+        <li>Subject: {{ .GitInfo.Subject }}</li>
+        <li>Last Modification Date: {{ .GitInfo.AuthorDate.Format "January 2, 2006 T01:01" }}</li>
+    </ul>
+</body>
+</html>
