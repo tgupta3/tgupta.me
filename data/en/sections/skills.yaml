@@ -11,16 +11,44 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Network Engineering
+  logo: "/images/sections/skills/networking.png"
+  summary: "Experienced in enterprise networking design and implementation, with a focus on automation for streamlined network configurations and operations across diverse infrastructures."
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Skilled in deploying and managing applications across AWS and Google Cloud, demonstrating versatility and adaptability in multi-cloud environments."
+
 - name: Kubernetes
-  #logo: "/images/sections/skills/kubernetes.png"
+  logo: "/images/sections/skills/kubernetes.png"
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Experienced with Docker, emphasizing multi-stage and multi-arch build processes for efficient and versatile containerized application deployment."
+  url: "https://www.docker.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Proficient in Linux for robust system administration and server management."
+
+- name: Python 
+  logo: /images/sections/skills/python.png
+  summary: "With a strong background in Python, I focus on automation, scripting, and software development projects."
+  url: "https://www.python.org/"
+
 - name: Go Development
-  #logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  logo: /images/sections/skills/go.png
+  summary: "Skilled in Go (Golang), utilizing its performance-driven architecture and concurrency model for building scalable and efficient backend systems."
   url: "https://golang.org/"
 
-- name: Cloud Computing
-  #logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.svg
+  summary: "Skilled in Jenkins, proficient in setting up and managing CI/CD workflows for efficient software releases."
+  url: "https://www.jenkins.io/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Skilled in Git for effective version control and collaboration."
+  url: "https://git-scm.com/"
