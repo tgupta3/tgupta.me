@@ -47,8 +47,12 @@ params:
   # Default branch of your Git repo
   gitBranch: main
 
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 5
+  
   # specify whether you want to write some blog posts or not
-  enableBlogPost: false
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
@@ -64,6 +68,18 @@ params:
      # Enable and configure portfolio
     portfolio:
       enable: true
+    
+    # Enable and configure blog posts
+    blog:
+      enable: true
+      # Share post on different social media
+      shareButtons:
+        facebook: true
+        twitter: true
+        linkedin: true
+        reddit: true
+        whatsapp: true
+        email: true
 
   footer:
     enable: true
