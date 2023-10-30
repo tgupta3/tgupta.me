@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Masters in Computer Engineering
+  icon: fa-graduation-cap
+  timeframe: 2015-2017
+  institution:
+    name: North Carolina State University
+    url: "https://www.ncsu.edu/"
+  takenCourses:
+    collapseAfter: 9
+    showGrades: false
+    courses:
+    - name: Switched Network Management
+    - name: Network Security
+    - name: Cloud Resiliency
+    - name: Internet Protocols
+    - name: Design and Analysis of Algorithms
+    - name: Computer Design and Technology
+    - name: Architecture of Parallel Computers
+    - name: Routed Network Design
+    - name: Advanced Internet Protocols
+- name: B.Tech in Electronics and Communication
+  icon: fa-university
+  timeframe: 2011-2015
+  institution:
+    name: VIT University
+    url: "https://vit.ac.in/"
