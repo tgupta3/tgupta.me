@@ -106,3 +106,10 @@ params:
       enable: true
     credentials:
       enable: true
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^CI$
+      - ^CF_PAGES
