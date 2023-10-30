@@ -1,2 +1,9 @@
 baseURL: "https://www.tgupta.me"
 enableRobotsTXT: true
+
+params:
+  features:
+    analytics:
+      enabled: true
+      google:
+        id: G-663DR0D4G0
