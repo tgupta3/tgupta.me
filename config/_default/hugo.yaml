@@ -42,6 +42,14 @@ outputs:
 enableEmoji: true
 
 params:
+  
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  logo:
+    main: /images/site/main-logo.jpeg
+    inverted: /images/site/main-logo-white.png
+    favicon: /images/site/main-logo-white.png
+  
   # GitHub repo URL of your site
   gitRepo: https://github.com/tgupta3/tgupta.me
   # Default branch of your Git repo
